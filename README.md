@@ -74,5 +74,3 @@ Analyze operational data to identify key areas of inefficiency, focusing on a hi
 * **Revenue by Payment** – **UPI** is the dominant payment method at **45.01%**, followed by **Cash (24.07%)** and **Uber Wallet (10.07%)**, confirming a clear market preference for digital, non-card transactions.
 * **Top Customers**– The top five customers (e.g., CID267, CID782) contribute a disproportionately high amount to the total revenue, showcasing strong loyalty among high-value riders.
 * **Driver vs. Customer Ratings** – Customer ratings (**4.40**) are slightly higher than driver ratings (**4.23**), indicating a generally positive experience for both parties, though a small gap suggests room for driver experience improvement.
-
-Links

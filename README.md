@@ -39,15 +39,15 @@ Analyze operational data to identify key areas of inefficiency, focusing on a hi
 ---
 ## Front Page
 
-![Front Page SS]([https://1drv.ms/i/c/769a3983100c5ddc/EX_bKJJEbrhDqU-QuOXqursB92w-ZO9SSMVektnTX9RKGQ?e=jaDJQj])
+![Front Page SS]([https://github.com/saikrishna640/-UBER-Rides-Analysis/blob/main/Front_Page.png])
 
 ## Overview Dashboard
 
-![Overview Dashboard SS]([https://1drv.ms/i/c/769a3983100c5ddc/Ee02Wq4hxw9HjaKkbzIupCoBjxznDu1HaI7mwBrA5lTwsA?e=bgZB6a])
+![Overview Dashboard SS]([https://github.com/saikrishna640/-UBER-Rides-Analysis/blob/main/Overview.png])
 
 ## Vehicle Dashboard
 
-![Vehicle Dashboard SS]([https://1drv.ms/i/c/769a3983100c5ddc/ET8LfAWU-dlDhAF-ftpe4-UBaxqIGaM7xYkE0xUMN28Uxg?e=IdjJft])
+![Vehicle Dashboard SS]([])
 
 ## Revenue Dashboard
 

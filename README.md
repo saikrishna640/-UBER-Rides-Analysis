@@ -39,27 +39,27 @@ Analyze operational data to identify key areas of inefficiency, focusing on a hi
 ---
 ## Front Page
 
-![Front Page SS]([https://github.com/saikrishna640/-UBER-Rides-Analysis/blob/main/Front_Page.png])
+![Front Page SS](image-1.png)
 
 ## Overview Dashboard
 
-![Overview Dashboard SS]([https://github.com/saikrishna640/-UBER-Rides-Analysis/blob/main/Overview.png])
+![alt text](image.png)
 
 ## Vehicle Dashboard
 
-![Vehicle Dashboard SS]([])
+![alt text](image-2.png)
 
 ## Revenue Dashboard
 
-![Revenue Dashboard SS]([https://1drv.ms/i/c/769a3983100c5ddc/EblDuy5RmrVJu8EJHMzQof8B3t9VLgyu8VXV-isLWqrBBg?e=yDQDnV])
+![alt text](image-3.png)
 
 ## Cancellation Dashboard
 
-![Cancellation Dashboard SS]([https://1drv.ms/i/c/769a3983100c5ddc/EXY8jVjE72pHg-AMmSiW4KABwD3vl2QJVJHWDBikvQk2Gw?e=rGEkEF])
+![alt text](image-4.png)
 
 ## Rating Dashboard
 
-![Rating Dashboard SS]([https://1drv.ms/i/c/769a3983100c5ddc/EXl7OtbnRRNGpUZyT5-DAx8BdEpUXXWETbIeFGZK8t8XUQ?e=KtUXmL])
+![alt text](image-5.png)
 
 ---
 

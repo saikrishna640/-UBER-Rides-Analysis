@@ -39,11 +39,11 @@ Analyze operational data to identify key areas of inefficiency, focusing on a hi
 ---
 ## Front Page
 
-![Front Page SS](image-1.png)
+![Front Page SS](https://github.com/saikrishna640/-UBER-Rides-Analysis/blob/main/Front%20Page.png?raw=true)
 
 ## Overview Dashboard
 
-![alt text](image.png)
+![alt text]()
 
 ## Vehicle Dashboard
 

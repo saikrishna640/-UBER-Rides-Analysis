@@ -1,86 +1,78 @@
-🚕 UBER-Rides-Analysis 
+# 🚕 UBER-Rides-Analysis
 
-This repository contains resources for analyzing and improving Uber's operations in ride-sharing across India/Specific City (Implied by vehicle types like Auto/Go Mini).
+![Uber Logo](https://imgs.search.brave.com/mKrWVMewBreF9pQsYQb6CNwKY_QpHBtNjC6AkK_DlO8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYXJr/ZXRpbmcuZGNhc3Nl/dGNkbi5jb20vYmxv/Zy8yMDE4L1NlcHRl/bWJlci9VYmVyLVdv/cmRtYXJrL0RJX1Vi/ZXItV29yZG1hcmtf/QmFubmVyXzgyOHgz/MDAuanBn)
 
-📊 Dashboards showcasing visual insights
-⚠️ Problem Statement
+This repository contains resources for analyzing and improving Uber's operations. It includes:
+- 📊 **Dashboards** showcasing visual insights (Created in Power BI)
+
+## ⚠️ Problem Statement
+
 Analyze operational data to identify key areas of inefficiency, focusing on a high overall cancellation rate, inconsistent ride demand, and optimizing vehicle performance and payment processes to maximize total booking value.
 
-Key Areas of Analysis:
+**Key Areas of Analysis:**
+* Ride Volume Over Time
+* Booking Status Breakdown
+* Top Vehicle Types by Average Ride Distance and Booking Value
+* Average Customer Ratings by Vehicle Type
+* Canceled Rides Reasons (Customer & Driver)
+* Revenue by Payment Method
+* Top 5 Customers by Total Booking Value
+* Ride Value Trend Over Time
+* Driver Ratings Distribution
+* Customer vs. Driver Ratings
 
-Ride Volume Over Time
+## 🎯 Objective
 
-Booking Status Breakdown
+* Analyze dataset to address key Business Questions on City-Level Trip Performance, Passenger Trends, Revenue Patterns, and Target Achievement.
+* **Ride Volume Over Time:** Track ride value trends to identify peak seasons, demand volatility, and overall revenue patterns.
+* **Booking Status Breakdown:** Categorize ride statuses to evaluate the **25.00%** overall cancellation rate and pinpoint the largest source of ride disruption.
+* **Average Customer Ratings by Vehicle Type:** Compare customer ratings across different vehicle types to assess service quality and rider satisfaction.
+* **Canceled Rides Reasons:** Analyze high-frequency customer and driver-initiated cancellations to understand key pain points and propose actionable solutions.
+* **Revenue by Payment Method:** Identify popular and profitable payment methods (UPI, Wallet, Cash) to optimize payment partnerships and user incentives.
+* **Top 5 Customers by Total Booking Value:** Recognize high-value customers for loyalty programs, premium service offerings, and personalized discounts.
+* **Ride Value Trend Over Time:** Examine monthly revenue variations to inform marketing and driver incentive campaigns during low-revenue periods.
 
-Top Vehicle Types by Average Ride Distance and Booking Value
+## 👩‍💻 Tech Stack
 
-Average Customer Ratings by Vehicle Type
+- **Data Visualization**: **Power BI**
 
-Canceled Rides Reasons (Customer & Driver)
+---
+## Front Page
 
-Revenue by Payment Method
+![Front Page SS]([https://1drv.ms/i/c/769a3983100c5ddc/EX_bKJJEbrhDqU-QuOXqursB92w-ZO9SSMVektnTX9RKGQ?e=jaDJQj])
 
-Top 5 Customers by Total Booking Value
+## Overview Dashboard
 
-Ride Value Trend Over Time
+![Overview Dashboard SS]([https://1drv.ms/i/c/769a3983100c5ddc/Ee02Wq4hxw9HjaKkbzIupCoBjxznDu1HaI7mwBrA5lTwsA?e=bgZB6a])
 
-Driver and Customer Ratings Distribution
+## Vehicle Dashboard
 
-🎯 Objective
-Analyze the dataset to address key Business Questions on City-Level Trip Performance, Passenger Trends, Revenue Patterns, and Target Achievement.
+![Vehicle Dashboard SS]([https://1drv.ms/i/c/769a3983100c5ddc/ET8LfAWU-dlDhAF-ftpe4-UBaxqIGaM7xYkE0xUMN28Uxg?e=IdjJft])
 
-Ride Volume Over Time: Track ride value trends to identify peak seasons and demand dips, particularly the strong volatility observed in Q1.
+## Revenue Dashboard
 
-Booking Status Breakdown: Categorize ride statuses to evaluate the overall 25% cancellation rate and pinpoint the largest source of ride disruption.
+![Revenue Dashboard SS]([https://1drv.ms/i/c/769a3983100c5ddc/EblDuy5RmrVJu8EJHMzQof8B3t9VLgyu8VXV-isLWqrBBg?e=yDQDnV])
 
-Average Customer Ratings by Vehicle Type: Compare customer ratings across the vehicle fleet to assess service quality and isolate any low-performing categories.
+## Cancellation Dashboard
 
-Canceled Rides Reasons: Analyze high-frequency customer and driver-initiated cancellations to understand key pain points and propose actionable solutions.
+![Cancellation Dashboard SS]([https://1drv.ms/i/c/769a3983100c5ddc/EXY8jVjE72pHg-AMmSiW4KABwD3vl2QJVJHWDBikvQk2Gw?e=rGEkEF])
 
-Revenue by Payment Method: Identify the most popular and profitable payment methods to enhance digital payment promotions (UPI, Wallet).
+## Rating Dashboard
 
-Top 5 Customers by Total Booking Value: Recognize high-value customers for loyalty programs and personalized service offerings.
+![Rating Dashboard SS]([https://1drv.ms/i/c/769a3983100c5ddc/EXl7OtbnRRNGpUZyT5-DAx8BdEpUXXWETbIeFGZK8t8XUQ?e=KtUXmL])
 
-Ride Value Trend Over Time: Examine monthly revenue variations to optimize marketing and driver incentive campaigns during low-revenue periods.
+---
 
-👩‍💻 Tech Stack
+## 💡 Key Insights (From Uber Analysis)
 
-Data Analysis/Modeling: [Assuming Python/SQL for preparation]
-
-Data Visualization: Power BI
-
-Front Page
-
-Overview Dashboard
-
-Vehicle Dashboard
-
-Revenue Dashboard
-
-Cancellation Dashboard
-
-Rating Dashboard
-
-💡 Key Insights
-
-Ride Volume – Total bookings: 102K, with the highest Booking Value spikes in March and November.
-
-Booking Status – 82% success rate (93K completed), 9% canceled by drivers, 7% by customers, and 1% failed (no driver found). The total cancellation rate is 25.00%.
-
-Top Vehicle Types by Distance – The average ride distance is consistently around 24.6 km for all types. eBike (24.99 km) has the longest average distance, while Uber XL (24.40 km) has the shortest.
-
-Top Vehicle Types by Value – Auto generates the highest Booking Value, followed by Go Mini and Go Sedan.
-
-Customer Ratings – Average customer rating is a high 4.40 across all vehicle types, showing mutual satisfaction.
-
-Cancellations – The top customer cancellation reasons are nearly split: Wrong Address (22.5%), Change of Plans (22.41%), and Driver Asked to Cancel (22.24%), indicating issues with both user input and driver behavior. Auto had the highest volume of driver-canceled rides.
-
-Revenue by Payment – UPI is the most popular method at 45.01%, followed by Cash (24.07%) and Uber Wallet (10.07%), suggesting a strong preference for digital, non-card payments.
-
-Top Customers – The top customers (CID267, CID782) contribute significantly to the total booking value, emphasizing the need for robust loyalty programs.
-
-
-
-Driver Ratings – Driver ratings are stable at 4.23, which is slightly lower than the customer average but still strong.
+* **Ride Volume & Value** – Total bookings: **102K**, generating a Total Booking Value of **$52 Million**. Revenue shows strong spikes in **March** and **November**.
+* **Booking Status** – **82%** success rate (**93K** completed). The overall cancellation rate is **25.00%**, driven primarily by drivers (**9%**) and customers (**7%**).
+* **Top Vehicle Types by Distance** – The average ride distance is consistently high for all types (around **24.6 km**), with **eBike (24.99 km)** having the longest average ride and **Uber XL (24.40 km)** having the shortest.
+* **Top Vehicle Types by Revenue** – **Auto**, **Go Mini**, and **Go Sedan** generate the highest total booking value, highlighting the importance of entry-level and mid-range segments.
+* **Customer Ratings** – Average customer rating is a high **4.40** across all vehicle types, indicating strong overall satisfaction.
+* **Cancellations – Customer Reasons** – The top four reasons are closely split (all between 21.86% and 22.5%), including **Wrong Address**, **Change of Plans**, and **Driver Asked to Cancel**. This indicates a mixed set of user input and driver-side behavioral issues needing attention.
+* **Revenue by Payment** – **UPI** is the dominant payment method at **45.01%**, followed by **Cash (24.07%)** and **Uber Wallet (10.07%)**, confirming a clear market preference for digital, non-card transactions.
+* **Top Customers**– The top five customers (e.g., CID267, CID782) contribute a disproportionately high amount to the total revenue, showcasing strong loyalty among high-value riders.
+* **Driver vs. Customer Ratings** – Customer ratings (**4.40**) are slightly higher than driver ratings (**4.23**), indicating a generally positive experience for both parties, though a small gap suggests room for driver experience improvement.
 
 Links

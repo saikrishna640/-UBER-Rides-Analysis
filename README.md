@@ -43,23 +43,23 @@ Analyze operational data to identify key areas of inefficiency, focusing on a hi
 
 ## Overview Dashboard
 
-![alt text]()
+![Overview](https://github.com/saikrishna640/-UBER-Rides-Analysis/blob/main/Overview.png?raw=true)
 
 ## Vehicle Dashboard
 
-![alt text](image-2.png)
+![alt text](https://github.com/saikrishna640/-UBER-Rides-Analysis/blob/main/Vehicle.png?raw=true)
 
 ## Revenue Dashboard
 
-![alt text](image-3.png)
+![alt text](https://github.com/saikrishna640/-UBER-Rides-Analysis/blob/main/Revenue.png?raw=true)
 
 ## Cancellation Dashboard
 
-![alt text](image-4.png)
+![alt text](https://github.com/saikrishna640/-UBER-Rides-Analysis/blob/main/Cancellation.png?raw=true)
 
 ## Rating Dashboard
 
-![alt text](image-5.png)
+![alt text](https://github.com/saikrishna640/-UBER-Rides-Analysis/blob/main/Rating.png?raw=true)
 
 ---
 
